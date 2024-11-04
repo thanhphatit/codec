@@ -1,6 +1,6 @@
 # Online Tools
-Please go to [Online Tools](https://emn178.github.io/online-tools/)
+Please go to [Online Tools](https://thanhphatit.github.io/codec/2024/)
 
 ## Contact
-The project's website is located at https://github.com/emn178/online-tools  
-Author: emn178@gmail.com
+The project's website is located at https://github.com/thanhphatit/codec/2024  
+Author: thanhphatit@gmail.com
